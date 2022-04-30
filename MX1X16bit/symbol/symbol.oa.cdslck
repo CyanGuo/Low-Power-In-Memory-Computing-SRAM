@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      yuqinggu
+HostName                       viterbi-scf2.usc.edu
+ProcessIdentifier              157865
+ProcessCreationTime_UTC        1649406814
+ProcessCreationTime_Readable   Fri Apr  8 01:33:34 2022 PDT
+AppIdentifier                  OA File System Design Manager
+OSType                         unix
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         /home/viterbi/09/yuqinggu/work_gpdk045/SRAM10T_project/MX1X16bit/symbol/symbol.oa.cdslck
+TimeEditLocked                 Fri Apr  8 01:48:59 2022 PDT
